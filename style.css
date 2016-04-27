@@ -1,0 +1,41 @@
+
+body { 
+background-color:  #7F7EFF; 
+color: #C68866; 
+font-family: Arial; 
+text-align: center;
+} 
+ 
+header { 
+background-color: #A390E4; 
+text-align: center;
+padding: 14pt
+} 
+ 
+header h1 { 
+text-align: center; 
+}
+ 
+nav {
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none
+}
+
+li 
+main { 
+background-color: #CC8B8C:; 
+} 
+ 
+ 
+section { 
+width: 60%; 
+padding: 15px; 
+display: inline-block; 
+background-color: #C69DD2:; 
+} 
+*container {
+	background-color: #A79AE2;
+}
